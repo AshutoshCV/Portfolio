@@ -1,0 +1,111 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-size: 170%;
+  font-style: normal;
+}
+h1{
+  font-size: 4.625rem;
+  margin-top: 2.625rem auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.topcontainer{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+margin-top: 100px 0;
+}
+.p{
+  line-height: 2;
+}
+.pro{
+  width: 30%;
+  margin:auto;
+}
+.bottomcontainer{
+}
+
+.bottom-cloud{
+   position: absolute;
+   left: 300px;
+   bottom:300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+a{
+  color: #11999E;
+  padding: 20px 10px;
+  text-decoration: none;
+}
+a:hover{
+  color: gold;
+}
+.skill-row{
+  line-height: 2;
+  text-align: left;
+  margin: auto 200px auto 200px;
+
+}
+.earth-img{
+  width: 230px;
+  height: 230px;
+  float: left;
+  margin-left: 20px;
+  padding-top: 90px;
+  margin-right: 10px;
+}
+.chilli-img{
+  width: 200px;
+  height: 200px;
+  float: right;
+  margin-right: 20px;
+}
+.bottom-container{
+  background-color:#E4F9F5;
+  padding: 50px;
+}
+.btn:hover{
+  background: gold;}
+.btn{
+  color: white;
+  border-radius: 10px;
+  background-color: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+  opacity: 10;
+  text-decoration: none;
+}
+hr{
+  border-style:none ;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+.copyright{
+  color: red;
+  font-size: 0.725rem;
+  padding-top: 15px;
+}
+.contact-message{
+  line-height: 2;
+  margin: auto 250px auto 250px;
+}
